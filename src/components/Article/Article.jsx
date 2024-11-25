@@ -58,3 +58,5 @@ export const Article = () => (
     </p>
   </article>
 );
+
+export default Article;
